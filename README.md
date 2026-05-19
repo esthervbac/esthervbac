@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou Esther 👋
 
-<!--
-**esthervbac/esthervbac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Full Stack com experiência em React.js, Node.js e TypeScript.
 
-Here are some ideas to get you started:
+## Tecnologias
+- React.js
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- AWS
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- Sistema Full Stack
+- Dashboard React
+- Aplicação Web Responsiva
+
+## Contato
+LinkedIn: linkedin.com/in/esther-valentim-bacelar
+Email: esther.v.bacelar@gmail.com
