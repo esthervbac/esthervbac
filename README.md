@@ -18,5 +18,5 @@ Desenvolvedora Full Stack com experiência em React.js, Node.js e TypeScript.
 - Aplicação Web Responsiva
 
 ## Contato
-LinkedIn: linkedin.com/in/esther-valentim-bacelar
+LinkedIn: linkedin.com/in/esther-valentim-bacelar |
 Email: esther.v.bacelar@gmail.com
