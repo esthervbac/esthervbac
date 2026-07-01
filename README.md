@@ -13,9 +13,8 @@ Desenvolvedora Full Stack com experiência em React.js, Node.js e TypeScript.
 - Git/GitHub
 
 ## Projetos em destaque
-- Sistema Full Stack
-- Dashboard React
-- Aplicação Web Responsiva
+- CRUD API de Lista de Mercado
+- APP de Lista de Mercado 
 
 ## Contato
 LinkedIn: linkedin.com/in/esther-valentim-bacelar |
