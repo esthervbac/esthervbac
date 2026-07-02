@@ -18,5 +18,5 @@ Desenvolvedora Full Stack com experiência em React.js, Node.js e TypeScript.
 - Kanban Flow
 
 ## Contato
-LinkedIn: [linkedin.com/in/esther-valentim-bacelar](https://www.linkedin.com/in/esther-valentim-bacelar/) |
+LinkedIn: https://www.linkedin.com/in/esther-valentim-bacelar/ |
 Email: esther.v.bacelar@gmail.com
